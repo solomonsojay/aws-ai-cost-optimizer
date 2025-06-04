@@ -29,7 +29,7 @@ The AWS AI Cost Optimizer uses generative AI (Claude 2.1 via AWS Bedrock) to ana
 ### Option 2: Local Testing
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/aws-ai-cost-optimizer.git
+git clone https://github.com/solomonsojay/aws-ai-cost-optimizer
 cd aws-ai-cost-optimizer
 
 # Open index.html in browser
