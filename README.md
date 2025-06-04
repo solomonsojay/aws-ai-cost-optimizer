@@ -8,12 +8,12 @@
 ## 🔍 Overview
 The AWS AI Cost Optimizer uses generative AI (Claude 2.1 via AWS Bedrock) to analyze cloud infrastructure costs and provide actionable optimization recommendations. This solution helps businesses reduce AWS spending by 25-40% through AI-powered insights.
 
-**Live Demo**: [https://your-amplify-url.amplifyapp.com](https://your-amplify-url.amplifyapp.com)
+**Live Demo**: https://staging.dnxvuwy2sif3a.amplifyapp.com/
 
 ## 🚀 Testing Instructions for Judges
 
 ### Option 1: Live Demo Testing (Recommended)
-1. Visit the live demo URL: [https://your-amplify-url.amplifyapp.com](https://your-amplify-url.amplifyapp.com)
+1. Visit the live demo URL: https://staging.dnxvuwy2sif3a.amplifyapp.com/
 2. Click the **"Analyze My AWS Costs"** button
 3. Observe the process:
    - "Connecting to AWS Lambda..."
